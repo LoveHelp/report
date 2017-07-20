@@ -1,0 +1,1 @@
+<xml><ToUserName><![CDATA[ww2bac3cf3a0aa33ea]]></ToUserName><FromUserName><![CDATA[GuoJing]]></FromUserName><CreateTime>1496479947</CreateTime><MsgType><![CDATA[event]]></MsgType><AgentID>1000002</AgentID><Event><![CDATA[LOCATION]]></Event><Latitude>33.0166</Latitude><Longitude>112.574</Longitude><Precision>0</Precision></xml>

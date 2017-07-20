@@ -1,0 +1,80 @@
+2017-05-24 11:25:00 R 
+<xml><ToUserName><![CDATA[gh_c2cf7e86c56b]]></ToUserName>
+<FromUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></FromUserName>
+<CreateTime>1495596299</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[报汛 21 B201608 170205 2 161.25]]></Content>
+<MsgId>6423537192726996869</MsgId>
+</xml>
+2017-05-24 11:25:00 T 
+<xml>
+    <ToUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></ToUserName>
+    <FromUserName><![CDATA[gh_c2cf7e86c56b]]></FromUserName>
+    <CreateTime>1495596300</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[组织机构代码错误，上报汛情失败！]]></Content>
+</xml>
+2017-05-24 11:25:54 R 
+<xml><ToUserName><![CDATA[gh_c2cf7e86c56b]]></ToUserName>
+<FromUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></FromUserName>
+<CreateTime>1495596354</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[报汛 21 B201608 170205 2 161.25]]></Content>
+<MsgId>6423537428950198157</MsgId>
+</xml>
+2017-05-24 11:25:54 T 
+<xml>
+    <ToUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></ToUserName>
+    <FromUserName><![CDATA[gh_c2cf7e86c56b]]></FromUserName>
+    <CreateTime>1495596354</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[组织机构代码错误，上报汛情失败！]]></Content>
+</xml>
+2017-05-24 11:26:06 R 
+<xml><ToUserName><![CDATA[gh_c2cf7e86c56b]]></ToUserName>
+<FromUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></FromUserName>
+<CreateTime>1495596366</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[报汛 21 B201602 170205 2 161.25]]></Content>
+<MsgId>6423537480489805712</MsgId>
+</xml>
+2017-05-24 11:26:06 T 
+<xml>
+    <ToUserName><![CDATA[oxPH5wURjzXl2ETeHpAIgZRmRKPM]]></ToUserName>
+    <FromUserName><![CDATA[gh_c2cf7e86c56b]]></FromUserName>
+    <CreateTime>1495596366</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[code:B201602 time:1495616525 current_time:1495616724上报汛情成功！]]></Content>
+</xml>
+2017-05-24 11:28:19 R 
+<xml><ToUserName><![CDATA[gh_43aa147ba683]]></ToUserName>
+<FromUserName><![CDATA[oLemK05rCaYW6c_oiireIBIEBDRI]]></FromUserName>
+<CreateTime>1495596499</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文本]]></Content>
+<MsgId>6423538051637064366</MsgId>
+</xml>
+2017-05-24 11:28:19 T 
+<xml>
+    <ToUserName><![CDATA[oLemK05rCaYW6c_oiireIBIEBDRI]]></ToUserName>
+    <FromUserName><![CDATA[gh_43aa147ba683]]></FromUserName>
+    <CreateTime>1495596499</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[这是个文本消息]]></Content>
+</xml>
+2017-05-24 11:28:49 R 
+<xml><ToUserName><![CDATA[gh_43aa147ba683]]></ToUserName>
+<FromUserName><![CDATA[oLemK05rCaYW6c_oiireIBIEBDRI]]></FromUserName>
+<CreateTime>1495596529</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[报汛]]></Content>
+<MsgId>6423538180486083261</MsgId>
+</xml>
+2017-05-24 11:28:49 T 
+<xml>
+    <ToUserName><![CDATA[oLemK05rCaYW6c_oiireIBIEBDRI]]></ToUserName>
+    <FromUserName><![CDATA[gh_43aa147ba683]]></FromUserName>
+    <CreateTime>1495596529</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[组织机构代码错误，上报汛情失败！]]></Content>
+</xml>

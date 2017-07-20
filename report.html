@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta content="no-cache" http-equiv="pragma">
+    <meta content="no-cache" http-equiv="cache-control">
+    <meta content="0" http-equiv="expires">
+    <title>上报汛情</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+</head>
+<body>
+<!--头部-->
+<header class="head headTitle">
+    <h1 class="title">上报汛情</h1>
+</header>
+<section class="costCount bookCon">
+    <div class="countBox bookBox">
+        <div class="count">
+			<p class="red hidden" style="display:none;" id="errorMsg"></p>
+            <p><input class="name" type="text" name="content" id="content" value="" placeholder="请输入标准格式的汛情信息" minlength="1" maxlength="50"></p>
+            <button class="submitBtn" onclick="reportCheck();">立即上报</button>
+        </div>
+    </div>
+</section>
+<script>
+function reportCheck(){
+	var content = $("#content").val();
+	if(content == ""){
+		$("#errorMsg").html("* 未输入报讯信息！");
+		$("#errorMsg").css("display", "block");
+	}else{
+		$.ajax({
+			type:'post',
+			url:"reportCheck.php",	
+			data:{content:content},
+			success:function(result){
+				$("#errorMsg").html(result);
+				$("#errorMsg").css("display", "block");
+			}
+		});  
+	}
+}
+</script>
+</body>
+</html>

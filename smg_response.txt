@@ -1,0 +1,6 @@
+<xml>
+					   <Encrypt><![CDATA[m72PbVUup8U57eoDBKudYX6EYyJ/Wtqz2Pi/ZVqz0j/0wNXz8Uq/Unbg6tWRzhawosksLiWJYJF786NSuActfdvsxQONVrOIC9H4HdIOT3y2O/RVFtWXXDIbFPqhsvuKd8WpPvXr4HHRS7gk4DliF6pcGt4GubobPMgtA5iwOdl+ax2Zgkai7T9oXQmu8hGQeVVyA21RQVRuODx7MOv7k/fhk08Rmf74tnppa8/7RSYvMuAIIeUygPDvCQAbhdWyoFaNaFkRQIFrO/ZTPXq+IPANoRvDSUahnoc/e02By40j8k81E7HxrDlUQ0ea0vOn+HWidRGKmWvJOTEPdRoA2+xzxlNq8wMtvB3ytAwPNbjHE0SuDtzD+vkhjgnfaj4UlfoloHEv00O/18HlMn0uZXCAEh/ZiFUyGo4kD6ssqC4=]]></Encrypt>
+					   <MsgSignature><![CDATA[8eed60f9df6200e2adc10d4b0be353e35502733d]]></MsgSignature>
+					   <TimeStamp>1496479947</TimeStamp>
+					   <Nonce><![CDATA[1722911746]]></Nonce>
+				   </xml>
