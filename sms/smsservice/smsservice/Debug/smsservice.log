@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  Utils.cpp
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\utils.cpp(20): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_wstdio.h(1122): note: 参见“_vsnwprintf”的声明
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\utils.cpp(27): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_wstdio.h(1122): note: 参见“_vsnwprintf”的声明
+  smsservice.cpp
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\smsservice.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\smsservice.cpp(53): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  SmsHelper.cpp
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\smshelper.cpp(452): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  ServiceManager.cpp
+  MallManager.cpp
+  HttpUtils.cpp
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\httputils.cpp(112): warning C4101: “e”: 未引用的局部变量
+e:\workspaces\visual studio 2017\projects\smsservice_v1.9.4\smsservice\httputils.cpp(149): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  smsservice.vcxproj -> E:\Workspaces\Visual Studio 2017\Projects\smsservice_v1.9.4\Debug\smsservice.exe
+  smsservice.vcxproj -> E:\Workspaces\Visual Studio 2017\Projects\smsservice_v1.9.4\Debug\smsservice.pdb (Partial PDB)
