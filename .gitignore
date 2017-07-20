@@ -1,3 +1,5 @@
-sms/*/Debug/*
-sms/*/Release/*
+*/*/Debug/*
+*/*/Release/*
+*/*/*/Debug/*
+*/*/*/Release/*
 
